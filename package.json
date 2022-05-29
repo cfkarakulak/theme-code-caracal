@@ -1,15 +1,29 @@
 {
     "name": "caracal-dark",
     "displayName": "Caracal Dark",
-    "description": "",
+	"description": "A dark Visual Studio Theme inspired by the great Horizon One theme but adding some personal taste customizations",
     "version": "0.3.0",
     "publisher": "CaracalTheme",
     "engines": {
         "vscode": "^1.67.0"
     },
+    "author": {
+		"name": "Cemre Fatih Karakulak (cradexco[at]gmail.com)"
+	},
     "categories": [
         "Themes"
     ],
+    "keywords": [
+		"icon-theme",
+		"dark",
+		"clean",
+		"caracal"
+	],
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cfkarakulak/theme-code-caracal"
+	},
     "contributes": {
         "themes": [
             {
