@@ -1,0 +1,22 @@
+{
+    "name": "caracal-dark",
+    "displayName": "Caracal Dark",
+    "description": "",
+    "version": "0.2.0",
+    "publisher": "CaracalTheme",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caracal Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Caracal Dark-color-theme.json"
+            }
+        ]
+    }
+}
